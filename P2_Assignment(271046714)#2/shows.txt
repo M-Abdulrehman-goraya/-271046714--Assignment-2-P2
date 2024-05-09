@@ -1,0 +1,11 @@
+screen1,10-00-13-00:Batman
+screen2,10-00-13-00:El Camino
+screen3,10-00-13-00:Black eagle
+screen1,13-30-16-30:Batman
+screen2,13-30-16-30:El Camino
+screen3,13-30-16-30:Black eagle
+screen1,17-00-20-00:Batman
+screen2,17-00-20-00:El Camino
+screen3,17-00-20-00:Black eagle
+screen1,20-30-23-30:Batman,
+screen2,20-30-23-30:El Camino
